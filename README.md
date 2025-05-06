@@ -6,46 +6,46 @@ This project is a comprehensive case study focused on analyzing ride-booking dat
 The key business questions addressed in this project include:
 
 SQL-Based Analysis:
-Retrieve all successful bookings.
+1. Retrieve all successful bookings.
 
-Analyze average ride distance by vehicle type.
+2. Analyze average ride distance by vehicle type.
 
-Count cancelled rides by customers and categorize reasons.
+3. Count cancelled rides by customers and categorize reasons.
 
-Identify top 5 customers by ride count.
+4. Identify top 5 customers by ride count.
 
-Evaluate driver cancellations due to specific issues.
+5. Evaluate driver cancellations due to specific issues.
 
-Analyze driver ratings, especially for premium vehicles.
+6. Analyze driver ratings, especially for premium vehicles.
 
-Explore payment method preferences (e.g., UPI).
+7. Explore payment method preferences (e.g., UPI).
 
-Examine average customer ratings by vehicle type.
+8. Examine average customer ratings by vehicle type.
 
-Calculate revenue from successful bookings.
+9. Calculate revenue from successful bookings.
 
-Identify incomplete rides and their reasons.
+10. Identify incomplete rides and their reasons.
 
 Power BI Dashboards:
-Visualize ride volume trends over time.
+1. Visualize ride volume trends over time.
 
-Breakdown booking statuses.
+2. Breakdown booking statuses.
 
-Rank top vehicle types by total ride distance.
+3. Rank top vehicle types by total ride distance.
 
-Compare average customer ratings across vehicle types.
+4. Compare average customer ratings across vehicle types.
 
-Analyze reasons for cancellations by both customers and drivers.
+5. Analyze reasons for cancellations by both customers and drivers.
 
-Revenue breakdown by payment methods.
+6. Revenue breakdown by payment methods.
 
-Top 5 high-value customers.
+7. Top 5 high-value customers.
 
-Daily ride distance distribution.
+8. Daily ride distance distribution.
 
-Driver rating distribution.
+9. Driver rating distribution.
 
-Comparison of customer vs. driver ratings.
+10. Comparison of customer vs. driver ratings.
 
 
 SQL Questions & Answers
