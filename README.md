@@ -1,4 +1,4 @@
-# OLA-Case-Study   Link : https://drive.google.com/file/d/1AF9josCwzk6P174Ucu4FaNHg1lhu2R3C/view?usp=drive_link
+# OLA-Case-Study   Link : https://docs.google.com/presentation/d/1wKOQBI5_NwBP2ZarJHQgVfWcdhbl4jUo/edit?usp=sharing&ouid=112854424454018772513&rtpof=true&sd=true
 
 This project is a comprehensive case study focused on analyzing ride-booking data for OLA Cabs Bengaluru. It simulates a real-world dataset and solves business problems using SQL for querying and Power BI for visualization.
 
