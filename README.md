@@ -1,4 +1,4 @@
-# OLA-Case-Study   Link : https://docs.google.com/presentation/d/1wKOQBI5_NwBP2ZarJHQgVfWcdhbl4jUo/edit?usp=sharing&ouid=112854424454018772513&rtpof=true&sd=true
+# OLA-Case-Study 
 
 This project is a comprehensive case study focused on analyzing ride-booking data for OLA Cabs Bengaluru. It simulates a real-world dataset and solves business problems using SQL for querying and Power BI for visualization.
 
@@ -107,5 +107,6 @@ SELECT Booking_ID, Incomplete_Rides_Reason
 FROM bookings
 WHERE Incomplete_Rides = 'Yes';
 
-
+- PPT LINK :- https://docs.google.com/presentation/d/1wKOQBI5_NwBP2ZarJHQgVfWcdhbl4jUo/edit?usp=sharing&ouid=112854424454018772513&rtpof=true&sd=true4
+- Data set :- https://docs.google.com/spreadsheets/d/10gAC_Yb4iHwMGgOcGY9OzjOs9bA_QR-w/edit?usp=sharing&ouid=112854424454018772513&rtpof=true&sd=true
 
